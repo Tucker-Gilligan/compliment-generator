@@ -14,7 +14,7 @@ Full stack web-app!
 ## Technology Used
 
 ### Client
-- ReactJS (Functional Components with React Hooks)
+- ReactJS - Functional Components with React Hooks
 - CSS (vanilla CSS)
 - Vercel for deployment
 
