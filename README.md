@@ -14,9 +14,9 @@ Full stack web-app!
 
 ## User Stories
 
-#### `Users start on the main page`
+#### - Users start on the main page
 
-#### `Users can click the "click me" button to receive a random compliment`
+ #### - Users can click the "click me" button to receive a random compliment
 
 ## Technology Used
 
