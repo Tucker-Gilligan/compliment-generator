@@ -8,7 +8,50 @@
   color: white;
 }
 
+.App button {
+  padding: 1rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+}
+
+.App button:hover {
+  cursor: pointer;
+}
+
+.App button:active {
+  color: white;
+  background-color: hsl(220, 13%, 18%);
+  border: none;
+}
+
+.App p {
+  font-size: 2rem;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.App p span {
+  margin-top: 1rem;
+  font-size: 105%;
+}
+
 header {
   font-size: 3rem;
-  margin: 5rem auto 2rem auto;
+  margin: 4rem auto 1rem auto;
+  letter-spacing: 0.2rem;
+}
+
+hr {
+  width: 75%;
+}
+
+.compliment__content {
+  margin: auto;
+}
+
+.mad__love {
+  font-size: 3rem;
+  margin: 2rem;
+  letter-spacing: 0.1rem;
 }

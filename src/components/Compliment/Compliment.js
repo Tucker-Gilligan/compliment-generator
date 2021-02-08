@@ -1,5 +1,3 @@
-import './Compliment.css';
-
 function Compliment(props) {
   // const [compliment, setCompliment] = useState('');
 
